@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.simple_note">
    <application
-        android:label="Aplikasi Simple Note C (Moh Rival Dzul_2006114)"
+        android:label="Aplikasi Simple Note C (Salman Adam Faris 2006112)"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
